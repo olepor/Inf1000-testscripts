@@ -4,9 +4,9 @@
 lag en fil (helst test.in, eller endre litt på skriptet til noe du vil selv :), 
 ellers så er enkel bruk
 
--gjør filene executable
+*gjør filene executable
 
--kjør skriptet runstest.sh med passende input
+*kjør skriptet runstest.sh med passende input
 
 #Eksempel på bruk
 ./runstest.sh test.in 1 username/ mainclass
